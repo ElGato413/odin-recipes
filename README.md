@@ -1,0 +1,1 @@
+Odin Recipes: In this project, I demonstrate basic HTML skills: writing paragraphs, inserting images and creating links.
